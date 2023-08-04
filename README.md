@@ -8,7 +8,9 @@
 - 실습 결과로 형성된 모델은 h5파일로 save하여 Model 폴더에 저장해두었습니다.
 - 저장된 모델의 로드 방법은, 모델을 다운 받은 이후
     - from tensorflow.keras.models import load_model
-    - model = load_model('모델이 저장된 경로/모델 파일의 이름.h5') 으로 load 가능합니다
+    - model = load_model('모델이 저장된 경로/모델 파일의 이름.h5') 으로 load 가능합니다. <br>
+<br>
+<br>
 
 
 
