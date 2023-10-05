@@ -1,4 +1,4 @@
-# DeepLearning-small-project
+# Machine-Learning / DeepLearning-small-project
 
 # ※ 실습은 코랩과 주피터 노트북을 통해 진행하였습니다. 
 - 이를 구분하기 위해 (코랩) 혹은 (주피터) 로 이름을 지어두겠습니다.
