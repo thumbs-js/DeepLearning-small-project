@@ -1,4 +1,11 @@
 # Machine-Learning / DeepLearning-small-project
+- 개념정리는 노션에 잘 정리해 두었습니다.
+
+## DeepLearning
+- CNN : https://www.notion.so/CNN-Convolution-Neutral-Network-db80b1c7d27d4d42a98a5e01cb47bb56
+- 자연어: https://www.notion.so/1ff3a0c19ca54372a91a85e25b509b00
+
+
 
 # ※ 실습은 코랩과 주피터 노트북을 통해 진행하였습니다. 
 - 이를 구분하기 위해 (코랩) 혹은 (주피터) 로 이름을 지어두겠습니다.
