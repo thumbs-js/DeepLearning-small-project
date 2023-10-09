@@ -1,14 +1,17 @@
 # Machine-Learning / DeepLearning-small-project
-- 개념정리는 노션에 잘 정리해 두었습니다.
-
+- 개념정리는 노션에 정리해두었고, 실습 또한 진행하였습니다.
 - 활용 툴
-- [![YOLOv5](https://img.shields.io/badge/YOLOv5-FF6384?style=flat&logo=pytorch&logoColor=white)](https://github.com/ultralytics/yolov5)
+
+## 통계 분석
+- https://www.notion.so/a1ed1145466a42218a07ce15713dc258
+
+## MachineLearning
+- https://www.notion.so/1ead868096c94ef6af762ebbc4fc8746
 
 ## DeepLearning
-- CNN : https://www.notion.so/CNN-Convolution-Neutral-Network-db80b1c7d27d4d42a98a5e01cb47bb56
+- 이미지(CNN) : https://www.notion.so/CNN-Convolution-Neutral-Network-db80b1c7d27d4d42a98a5e01cb47bb56
+- Object Detection: https://www.notion.so/Object-Detection-6c13db48c0d44c61975243a453c87a6d
 - 자연어: https://www.notion.so/1ff3a0c19ca54372a91a85e25b509b00
-
-
 
 # ※ 실습은 코랩과 주피터 노트북을 통해 진행하였습니다. 
 - 이를 구분하기 위해 (코랩) 혹은 (주피터) 로 이름을 지어두겠습니다.
