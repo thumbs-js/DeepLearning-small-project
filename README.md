@@ -1,6 +1,9 @@
 # Machine-Learning / DeepLearning-small-project
 - 개념정리는 노션에 잘 정리해 두었습니다.
 
+- 활용 툴
+- [![YOLOv5](https://img.shields.io/badge/YOLOv5-FF6384?style=flat&logo=pytorch&logoColor=white)](https://github.com/ultralytics/yolov5)
+
 ## DeepLearning
 - CNN : https://www.notion.so/CNN-Convolution-Neutral-Network-db80b1c7d27d4d42a98a5e01cb47bb56
 - 자연어: https://www.notion.so/1ff3a0c19ca54372a91a85e25b509b00
