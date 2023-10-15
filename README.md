@@ -8,6 +8,7 @@
 - https://www.notion.so/1ead868096c94ef6af762ebbc4fc8746
 ---
 ## DeepLearning
+- 코드는 PyTorch와 Tensorflow기반으로 작성되었습니다.
 - 이미지(CNN) : https://www.notion.so/CNN-Convolution-Neutral-Network-db80b1c7d27d4d42a98a5e01cb47bb56
 - Object Detection: https://www.notion.so/Object-Detection-6c13db48c0d44c61975243a453c87a6d
 - 자연어: https://www.notion.so/1ff3a0c19ca54372a91a85e25b509b00
